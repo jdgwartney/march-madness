@@ -1,0 +1,18 @@
+{
+   "MM_SCORE": {
+     "displayName": "Score",
+     "displayNameShort": "Score",
+     "description": "Current team score",
+     "unit": "number",
+     "defaultAggregate": "max",
+     "defaultResolutionMS": 60000
+   },
+   "MM_TIME_REMAINING": {
+     "displayName": "Time Remaining",
+     "displayNameShort": "Time Remaining",
+     "description": "Time left in game",
+     "unit": "duration",
+     "defaultAggregate": "max",
+     "defaultResolutionMS": 60000
+   }
+}
